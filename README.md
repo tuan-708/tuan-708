@@ -13,7 +13,7 @@
 
 - 💬 Gmail liên hệ: **tuanlbs78@gmail.com**
 
-- 📄 Kinh nghiệm làm việc: **3 năm làm phát triển web api, ngôn ngữ thường dùng java, c#, python**
+- 📄 Kinh nghiệm làm việc: **Hiện tại có thể nói chưa có**
 
 - ⚡ Sở thích: **Đá bóng, chơi game, du lịch, tán phét với bạn bè**
 
