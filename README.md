@@ -1,7 +1,7 @@
 <h1 align="center">Xin chào 👋, Tôi là Tuấn</h1>
 <h3 align="center">Hiện tại tôi là lập trình viên web, webapi</h3>
 
-- 🔭 Tình trạng công việc: **Thất nghiệp**
+- 🔭 Tình trạng công việc: **Thực tập sinh DION**
 
 - 🌱 Ngôn ngữ học hiện tại: **C#, Python, java**
 
