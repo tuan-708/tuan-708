@@ -1,9 +1,9 @@
 <h1 align="center">Xin chào 👋, Tôi là Tuấn</h1>
-<h3 align="center">Hiện tại tôi là lập trình viên web, webapi</h3>
+<h3 align="center">Hiện tại tôi là lập trình viên mobile</h3>
 
-- 🔭 Tình trạng công việc: **Thực tập sinh DION**
+- 🔭 Tình trạng công việc: **Mobile Dev**
 
-- 🌱 Ngôn ngữ học hiện tại: **C#, Python, java**
+- 🌱 Ngôn ngữ học hiện tại: **C#, Python, ReactNative**
 
 - 👨‍💻 Các sản phẩm tôi đã từng làm: **Chưa link :v**
 
@@ -13,7 +13,7 @@
 
 - 💬 Gmail liên hệ: **tuanlbs78@gmail.com**
 
-- 📄 Kinh nghiệm làm việc: **Hiện tại có thể nói chưa có**
+- 📄 Kinh nghiệm làm việc: **Hơn 1 năm kinh nghiệm Mobile Dev**
 
 - ⚡ Sở thích: **Đá bóng, chơi game, du lịch, tán phét với bạn bè**
 
