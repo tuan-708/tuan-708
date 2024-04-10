@@ -1,5 +1,5 @@
 <h1 align="center">Xin chào 👋, Tôi là Tuấn</h1>
-<h3 align="center">Hiện tại tôi là lập trình viên mobile</h3>
+<h3 align="center">Hiện tại tôi là lập trình viên Mobile</h3>
 
 - 🔭 Tình trạng công việc: **Mobile Dev**
 
