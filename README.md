@@ -6,9 +6,8 @@
 - 🌱 Ngôn ngữ học hiện tại: **C#, Python, ReactNative, Flutter**
 
 - 👨‍💻 Các sản phẩm tôi đã từng làm:
-  **https://play.google.com/store/apps/details?id=com.dionhomedoctor&pli=1\n
-  https://play.google.com/store/apps/details?id=com.happysmile
-  **
+  **https://play.google.com/store/apps/details?id=com.dionhomedoctor&pli=1**
+  **https://play.google.com/store/apps/details?id=com.happysmile**
 
 - 👯 Mối quan hệ hiện tại: **Độc thân**
 
