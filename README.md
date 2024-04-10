@@ -3,7 +3,7 @@
 
 - 🔭 Tình trạng công việc: **Mobile Dev**
 
-- 🌱 Ngôn ngữ học hiện tại: **C#, Python, ReactNative, Flutter**
+- 🌱 Ngôn ngữ học hiện tại: **ReactNative, Flutter, C#, Python**
 
 - 👨‍💻 Các sản phẩm tôi đã từng làm:
   </br>**https://play.google.com/store/apps/details?id=com.dionhomedoctor&pli=1**
